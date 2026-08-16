@@ -29,7 +29,7 @@
 | :--- | :--- |
 | **Core & AI/ML** | `Python` `PyTorch` `TensorFlow` |
 | **Frontend & Full-Stack** | `Next.js` `TypeScript` `JavaScript` |
-| **Environment & Tools** | `Docker` `VS Code` `Git` `Linux` |
+| **Environment & Tools** | `Docker` `VS Code` `Git`  |
 
 ---
 
