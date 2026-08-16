@@ -52,15 +52,7 @@
 
 </div>
 
----
 
-### 🐍 Contribution Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nithiwatwork/nithiwatwork/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <!-- Minimal Dark Bottom Line -->
